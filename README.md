@@ -1,6 +1,14 @@
 # Proyecto-Certificado-de-Python
 Este es un sistema de gestión de biblioteca desde la terminal, donde los usuarios pueden agregar nuevos libros al inventario, registrar usuarios, prestar y devolver libros, y realizar consultas sobre el estado de la biblioteca y los préstamos realizados.  
 
+## Características 
+
+Permite gestionar los usuarios de una biblioteca y los libros que se encuentran registrados en ella.
+
+## Requisitos
+
+- Python 3.12.2
+
 ## Instalación
 
 Para instalar el proyecto, sigue estos pasos:
@@ -22,3 +30,7 @@ Una vez que el programa está en funcionamiento, puedes utilizar las siguientes 
 6. Listar libros del usuario
 7. Devolver libro
 8. Salir
+
+## Créditos
+
+Este proyecto fue creado por Randy Benjamín Cuevas Sánchez

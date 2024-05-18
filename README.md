@@ -10,7 +10,7 @@ Para instalar el proyecto, sigue estos pasos:
 3. Ejecuta el programa principal: *python .\main.py*
 
 
-##Uso
+## Uso
 
 Una vez que el programa está en funcionamiento, puedes utilizar las siguientes opciones:
 
